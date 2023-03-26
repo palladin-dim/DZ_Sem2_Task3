@@ -1,7 +1,7 @@
 /* 
 Напишите метод, который принимает на вход строку (String) и определяет является ли строка палиндромом (возвращает boolean значение). Без встр. функций
 */
-public class Task023 {
+public class Task_3 {
     public static void main(String[] args) {
         String input1 = "Палиндром";
         String input2 = "ротор";
